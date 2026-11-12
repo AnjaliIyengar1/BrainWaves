@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjdgRZOzGb4=",
+  "success": true,
+  "projectFilePath": "/Users/anjalikrishnamurthy/GitHub/BrainWaves/Simulator/Simulator.csproj",
+  "expectedPackageFiles": [
+    "/Users/anjalikrishnamurthy/.nuget/packages/system.io.hashing/11.0.0/system.io.hashing.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

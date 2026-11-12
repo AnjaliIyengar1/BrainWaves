@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fA8PBIVjs4U=",
+  "success": true,
+  "projectFilePath": "/Users/anjalikrishnamurthy/GitHub/BrainWaves/DataProcessor/DataProcessor.csproj",
+  "expectedPackageFiles": [
+    "/Users/anjalikrishnamurthy/.nuget/packages/system.io.hashing/11.0.0/system.io.hashing.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

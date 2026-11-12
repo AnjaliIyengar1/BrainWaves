@@ -1,0 +1,12 @@
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/bin/Debug/net10.0/Protocol.deps.json
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/bin/Debug/net10.0/Protocol.dll
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/bin/Debug/net10.0/Protocol.pdb
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/Protocol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/Protocol.AssemblyInfoInputs.cache
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/Protocol.AssemblyInfo.cs
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/Protocol.csproj.CoreCompileInputs.cache
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/Protocol.dll
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/refint/Protocol.dll
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/Protocol.pdb
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/ref/Protocol.dll
+/Users/anjalikrishnamurthy/GitHub/BrainWaves/Protocol/obj/Debug/net10.0/Protocol.csproj.AssemblyReference.cache
